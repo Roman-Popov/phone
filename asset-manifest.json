@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/phone/static/css/main.b6de0a3b.chunk.css",
+    "main.css": "/phone/static/css/main.461f8740.chunk.css",
     "main.js": "/phone/static/js/main.3a361d33.chunk.js",
     "main.js.map": "/phone/static/js/main.3a361d33.chunk.js.map",
     "runtime-main.js": "/phone/static/js/runtime-main.5981a866.js",
@@ -10,7 +10,7 @@
     "static/js/3.4307a31f.chunk.js": "/phone/static/js/3.4307a31f.chunk.js",
     "static/js/3.4307a31f.chunk.js.map": "/phone/static/js/3.4307a31f.chunk.js.map",
     "index.html": "/phone/index.html",
-    "static/css/main.b6de0a3b.chunk.css.map": "/phone/static/css/main.b6de0a3b.chunk.css.map",
+    "static/css/main.461f8740.chunk.css.map": "/phone/static/css/main.461f8740.chunk.css.map",
     "static/js/2.eb5e20cd.chunk.js.LICENSE.txt": "/phone/static/js/2.eb5e20cd.chunk.js.LICENSE.txt",
     "static/media/carousel.scss": "/phone/static/media/6.aaa00565.jpg",
     "static/media/phone-layer.scss": "/phone/static/media/hand.7a707f80.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.5981a866.js",
     "static/js/2.eb5e20cd.chunk.js",
-    "static/css/main.b6de0a3b.chunk.css",
+    "static/css/main.461f8740.chunk.css",
     "static/js/main.3a361d33.chunk.js"
   ]
 }
